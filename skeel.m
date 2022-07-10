@@ -23,7 +23,7 @@ function c = skeel(A, p)
 %      [1] Robert D. Skeel, "Scaling for numerical stability in Gaussian
 %          elimination", J. ACM, 26 (1979), pp. 494-526.
 %
-%      [2] N.J. Higham, "FORTRAN codes for estimating the one-norm of a
+%      [2] N. J. Higham, "FORTRAN codes for estimating the one-norm of a
 %          real or complex matrix, with applications to condition
 %          estimation", ACM Trans. Math. Soft., 14 (1988), pp. 381-396.
 %
